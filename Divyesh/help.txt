@@ -1,0 +1,6 @@
+
+syntax
+pip install package_name
+
+Example
+pip install pandas
